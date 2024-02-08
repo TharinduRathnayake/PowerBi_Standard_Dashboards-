@@ -1,1 +1,7 @@
 # PowerBi_Standard_Dashboards-
+
+BC Expense standard dashboard : https://app.powerbi.com/view?r=eyJrIjoiMThlM2FlYmUtOWFjZC00MTZhLWFlMTUtZTFmZmQ0MmQ2MTIyIiwidCI6IjZiNGFiYzAyLWU0MGItNGQ1MC05ZmVmLTk0NGE2ODE5NmRhMyIsImMiOjEwfQ%3D%3D 
+
+Sales Standard Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNmI2ODEyMGQtYjZlYi00NmM1LTk3Y2EtMzRiYzYzYzc4ZjBkIiwidCI6IjZiNGFiYzAyLWU0MGItNGQ1MC05ZmVmLTk0NGE2ODE5NmRhMyIsImMiOjEwfQ%3D%3D 
+
+BC revenue Standard dashboard : https://app.powerbi.com/view?r=eyJrIjoiNTRhNTAzNmYtMTI2YS00YjM1LWE5NTEtYTI2YTYyZDVkOWY3IiwidCI6IjZiNGFiYzAyLWU0MGItNGQ1MC05ZmVmLTk0NGE2ODE5NmRhMyIsImMiOjEwfQ%3D%3D 
